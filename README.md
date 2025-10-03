@@ -42,12 +42,3 @@ This repository contains
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.  
 
 ---
-
-## **Contact Information**
-
-Created with ❤️ by **[Vincent Mugendi](https://www.linkedin.com/in/vincentmugendi/)**  
-- **Portfolio**: [vincentmugendi.com](https://vincentmugendi.com) *(coming soon)*  
-- **GitHub**: [github.com/vincentmugendi](https://github.com/vincent-mugendi)  
-- **Email**: [vincentmugendi17@gmail.com](mailto:vincentmugendi17@gmail.com)  
-
----
